@@ -12,4 +12,6 @@ func main() {
 	fmt.Println("Nice to meet you!")
 	fmt.Println("Nice to meet you too! :)")
 	fmt.Println("End")
+
+	fmt.Println("This text for Second branch.")
 }
