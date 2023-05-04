@@ -14,5 +14,5 @@ func main() {
 	fmt.Println("End")
 
 	fmt.Println("This text for Main branch.")
-	fmt.Println("This text for Main branch.")
+	fmt.Println("This text for Another branch.")
 }
