@@ -8,5 +8,7 @@ import (
 
 func main() {
 	fmt.Println("Hello, GIT!")
-	fmt.Println("Hello, User!")
+	fmt.Println("Hello, Chinaeff!")
+	fmt.Println("Nice to meet you!")
+	fmt.Println("Nice to meet you too! :)")
 }
