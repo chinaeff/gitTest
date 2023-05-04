@@ -8,4 +8,5 @@ import (
 
 func main() {
 	fmt.Println("Hello, GIT!")
+	fmt.Println("Hello, User!")
 }
