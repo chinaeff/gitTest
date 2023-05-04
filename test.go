@@ -11,4 +11,5 @@ func main() {
 	fmt.Println("Hello, Chinaeff!")
 	fmt.Println("Nice to meet you!")
 	fmt.Println("Nice to meet you too! :)")
+	fmt.Println("End")
 }
